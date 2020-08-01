@@ -9,8 +9,11 @@ or in linux
 
 # input
 num of cases
+
 re1 re2
+
 ...
+
 
 ## 正则表达式 --> NFA -->DFA --> MIN_DFA
 ## 也可以对两个正则表达式之间的比较
