@@ -1,4 +1,4 @@
-// 测试运行条件 mingw C++11
+// 测试运行条件 mingw g++ C++11
 
 #include<cstdlib>
 #include<cstdio>
